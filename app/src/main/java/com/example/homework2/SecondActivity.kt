@@ -70,6 +70,4 @@ class SecondActivity : AppCompatActivity() {
         Log.i(TAG, "onDestroy")
         super.onDestroy()
     }
-
-
 }

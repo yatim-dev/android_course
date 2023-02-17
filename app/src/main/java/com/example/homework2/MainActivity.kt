@@ -87,7 +87,4 @@ class MainActivity : AppCompatActivity() {
         configChangeCount += 1
         binding.number1.text = configChangeCount.toString()
     }
-
-
-
 }
